@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.profile{
+  color: blue;
+  text-align: center;
+  /* flex-direction: column; */
+  /* align-content: stretch; */
+  align-items: stretch;
+  flex-wrap: wrap;
+  /* display: grid; */
+  width: 4rem;
+  /* align-items: center; */
+  margin-left: 50rem;
+  margin-right: 50rem;
+  margin-top: 10rem;
+}
